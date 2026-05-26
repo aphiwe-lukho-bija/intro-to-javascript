@@ -1,0 +1,12 @@
+button {
+    background-color: rgb(3, 58, 255);
+    color: blanchedalmond;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+} 
+
+button:hover{
+  background-color: aqua;
+
+}
